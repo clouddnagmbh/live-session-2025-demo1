@@ -3,5 +3,6 @@
     xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
         <Text text="Test3"/>
+        <Text text="Test2"/>
     </Page>
 </mvc:View>
